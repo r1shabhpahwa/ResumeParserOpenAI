@@ -1,0 +1,41 @@
+{
+    "userData": {
+        "experiences": [
+            {
+                "company": "Sopra Steria",
+                "position": "Senior Software Engineer",
+                "duration": "Aug 2019 - Aug 2022",
+                "description": [
+                    "Managed a critical project for Airbus as the technical owner, developing and maintaining an SAP WebDynpro based portal for technical data submission by the client's part suppliers.",
+                    "Mentored and trained a team of 3 junior software engineers, improving their understanding of the technology stack and best practices.",
+                    "Addressed over 100 medium to high-level production incidents and change requests while ensuring timely delivery of user stories and code enhancements.",
+                    "Demonstrated expertise in SAP WebDynpro, OO Reports & ALV, BADI, BAPI, IDOC, Data Dictionary, Performance Tuning, and SQL optimization.",
+                    "Built a chatbot using IBM Watson for onboarding new team members."
+                ]
+            }
+        ],
+        "projectWork": [
+            {
+                "project_heading": "ZeroWaste",
+                "project_desc": "Collaborated with a team of 8 students to create and present a solution addressing challenges in household waste management, such as forgetfulness, e-waste recycling, kitchen waste disposal, automation, and mis-recycling.",
+                "technologies": "HTML, CSS, JavaScript, Angular, MongoDB, Docker"
+            },
+            {
+                "project_heading": "DataWeaver: Enhanced Web Scraper Tool",
+                "project_desc": "Engineered a comprehensive Web Crawler using Java, implemented features such as URL validation, dictionary and spellcheck function, and sorting and ranking algorithms to improve data quality, readability, speed, and precision.",
+                "technologies": "Java, jsoup, Regex, Data Structures and Algorithms"
+            }
+        ],
+        "contactInfo": {
+            "email": "pahwar@uwindsor.ca"
+        },
+        "introInfo": {
+            "name": "Rishabh Pahwa",
+            "status": "Currently pursuing Master of Applied Computing at the University of Windsor"
+        },
+        "aboutInfo": {
+            "firstPara": "Over 3 years of experience in SAP ERP projects for esteemed clients such as Airbus, with skills in Agile environments, software design, testing, development, and various technologies.",
+            "secondPara": "Refined communication, teamwork, and interpersonal skills through collaboration with clients, colleagues, and project team members."
+        }
+    }
+}
